@@ -7,3 +7,4 @@ This repository contains the codes for our simulations and second real data exam
 - Real Data
   - TLridge Git.R: It contains the codes for estimation population parameters including $\rho_{kk'}, \sigma_k, \alpha_k$ as described in the supplement to the manuscript. In addition, it contains the codes to estimate the optimal prediction weights and the optimal estimation weight. At last, the leave one out AUC performance for both weights are reported.
   - Naive Git.R: It contains the codes to report the leave one out AUC performance for ridge regressions fitted with only target population data and with all data pooled together.
+  - DF.rda: Raw data file of our second real data example.
